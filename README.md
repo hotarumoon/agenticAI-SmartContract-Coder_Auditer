@@ -13,14 +13,6 @@ This project demonstrates a multi-agent system where:
 ## Console Output
 
 Below is the complete console output from the POC execution:
-
-<div align="center">
-<img src="Screenshot%202025-12-17%20at%2011.49.55.png" alt="Console Output 1" width="100%">
-<img src="Screenshot%202025-12-17%20at%2011.50.05.png" alt="Console Output 2" width="100%">
-<img src="Screenshot%202025-12-17%20at%2011.50.17.png" alt="Console Output 3" width="100%">
-</div>
-
-<details>
 <summary>📋 Click to expand text version of console output</summary>
 
 ```bash
