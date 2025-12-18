@@ -1,6 +1,7 @@
 # AgenticAI Smart Contract Coder & Auditor
 
-A CrewAI-powered tool that uses AI agents to write and audit Solidity smart contracts.
+Implementation of AI agents that write and audit Solidity smart contracts using CrewAI.
+
 
 ## Overview
 
