@@ -4,7 +4,7 @@ A CrewAI-powered tool that uses AI agents to write and audit Solidity smart cont
 
 ## Overview
 
-This project demonstrates a multi-agent system where:
+This cool project implements a multi-agent system where:
 - **Junior Solidity Developer** - Writes smart contract code
 - **Lead Smart Contract Auditor** - Reviews code for security vulnerabilities and creates an audit report
 - **Multi-Agent Collaboration**: Two specialized AI agents working together
